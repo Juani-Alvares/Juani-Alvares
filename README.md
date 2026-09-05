@@ -6,21 +6,27 @@
 
 ###
 
-<p align="left">¡Hola! Soy Juan Ignacio Alvares. Me apasiona el mundo digital y creativo. Tengo experiencia en marketing digital, community management y edición de imágenes con Photoshop e Illustrator.<br><br>Además, tengo conocimientos de HTML5, CSS3 y SASS, y actualmente estoy haciendo un curso de Desarrollo Web, ampliando mis habilidades en programación y diseño frontend.<br><br>Sigo aprendiendo todos los días y estoy en búsqueda de nuevas oportunidades laborales donde pueda aprender, crecer profesionalmente y ganar experiencia real en el mundo del desarrollo web y digital.</p>
+<p align="left">Estudiante de Licenciatura en Inteligencia Artificial y Robótica, enfocado en desarrollo de software, inteligencia artificial y construcción de aplicaciones web.
 
-###
+🛠️ Tecnologías y conocimientos:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
+* Python
+* JavaScript
+* React
+* Backend
+* Desarrollo Web
+* HTML, CSS y Bootstrap
+* APIs y desarrollo de aplicaciones
+* MongoDB y bases de datos
+* Git y GitHub
+* Figma
+* Cursor e integración de IA para desarrollo
+* Data Analytics
+
+Actualmente desarrollo proyectos personales y académicos para fortalecer mis habilidades en frontend, backend, desarrollo de aplicaciones e inteligencia artificial.
+
+Mi objetivo es construir soluciones escalables, aprender nuevas tecnologías y convertir ideas en proyectos reales.
+</p>
 
 ###
 
