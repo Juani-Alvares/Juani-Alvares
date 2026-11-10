@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Juan Ignacio Álvarez — Full Stack Developer · AI &amp; Robotics Student · Argentina. Neon pixel city at night." />
+  <img src="assets/banner.svg" width="100%" alt="Juan Ignacio Alvares — Full Stack Developer · AI &amp; Robotics Student · Argentina. Neon pixel city at night." />
 </p>
 
 **Web development · Intelligent systems · Continuous learning**
