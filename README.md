@@ -20,40 +20,23 @@ Technologies and tools I know and continue to practice.
 
 **Frontend**
 
-<img src="assets/icons/html5.svg" width="68" height="32" alt="HTML5" />
-<img src="assets/icons/css3.svg" width="60" height="32" alt="CSS3" />
-<img src="assets/icons/react.svg" width="68" height="32" alt="React" />
-<img src="assets/icons/vite.svg" width="60" height="32" alt="Vite" />
-<img src="assets/icons/bootstrap.svg" width="100" height="32" alt="Bootstrap" />
-<img src="assets/icons/sass.svg" width="60" height="32" alt="SASS" />
+<p><img src="assets/icons/html5.svg" width="68" height="32" alt="HTML5" /> <img src="assets/icons/css3.svg" width="60" height="32" alt="CSS3" /> <img src="assets/icons/react.svg" width="68" height="32" alt="React" /> <img src="assets/icons/vite.svg" width="60" height="32" alt="Vite" /> <img src="assets/icons/bootstrap.svg" width="100" height="32" alt="Bootstrap" /> <img src="assets/icons/sass.svg" width="60" height="32" alt="SASS" /></p>
 
 **Backend**
 
-<img src="assets/icons/node-js.svg" width="84" height="32" alt="Node.js" />
-<img src="assets/icons/express.svg" width="84" height="32" alt="Express" />
-<img src="assets/icons/mongoose.svg" width="92" height="32" alt="Mongoose" />
-<img src="assets/icons/rest-apis.svg" width="100" height="32" alt="REST APIs" />
-<img src="assets/icons/jwt.svg" width="52" height="32" alt="JWT" />
+<p><img src="assets/icons/node-js.svg" width="84" height="32" alt="Node.js" /> <img src="assets/icons/express.svg" width="84" height="32" alt="Express" /> <img src="assets/icons/mongoose.svg" width="92" height="32" alt="Mongoose" /> <img src="assets/icons/rest-apis.svg" width="100" height="32" alt="REST APIs" /> <img src="assets/icons/jwt.svg" width="52" height="32" alt="JWT" /></p>
 
 **Programming Languages**
 
-<img src="assets/icons/python.svg" width="76" height="32" alt="Python" />
-<img src="assets/icons/java.svg" width="60" height="32" alt="Java" />
-<img src="assets/icons/javascript.svg" width="108" height="32" alt="JavaScript" />
+<p><img src="assets/icons/python.svg" width="76" height="32" alt="Python" /> <img src="assets/icons/java.svg" width="60" height="32" alt="Java" /> <img src="assets/icons/javascript.svg" width="108" height="32" alt="JavaScript" /></p>
 
 **Databases &amp; Cloud**
 
-<img src="assets/icons/mongodb.svg" width="84" height="32" alt="MongoDB" />
-<img src="assets/icons/firebase.svg" width="92" height="32" alt="Firebase" />
+<p><img src="assets/icons/mongodb.svg" width="84" height="32" alt="MongoDB" /> <img src="assets/icons/firebase.svg" width="92" height="32" alt="Firebase" /></p>
 
 **Tools &amp; Development**
 
-<img src="assets/icons/git.svg" width="52" height="32" alt="Git" />
-<img src="assets/icons/github.svg" width="76" height="32" alt="GitHub" />
-<img src="assets/icons/vs-code.svg" width="84" height="32" alt="VS Code" />
-<img src="assets/icons/postman.svg" width="84" height="32" alt="Postman" />
-<img src="assets/icons/figma.svg" width="68" height="32" alt="Figma" />
-<img src="assets/icons/power-bi.svg" width="92" height="32" alt="Power BI" />
+<p><img src="assets/icons/git.svg" width="52" height="32" alt="Git" /> <img src="assets/icons/github.svg" width="76" height="32" alt="GitHub" /> <img src="assets/icons/vs-code.svg" width="84" height="32" alt="VS Code" /> <img src="assets/icons/postman.svg" width="84" height="32" alt="Postman" /> <img src="assets/icons/figma.svg" width="68" height="32" alt="Figma" /> <img src="assets/icons/power-bi.svg" width="92" height="32" alt="Power BI" /></p>
 
 ## Featured projects
 
