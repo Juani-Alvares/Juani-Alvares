@@ -42,21 +42,21 @@ Technologies and tools I know and continue to practice.
 
 <!-- FEATURED-PROJECTS:START -->
 
-### 01 / CryptoDash
+### 01 / Proyect\-Calculator
 
-A responsive dashboard for **Bitcoin, Ethereum, and BNB**. It brings together market prices, historical SVG charts, USD/EUR selection, and a currency converter. CoinGecko integration includes cached data and explicit loading, stale-data, and error states.
+Explore the source code and documentation in this repository\.
 
-**Built with:** HTML · CSS · JavaScript · CoinGecko API
+**Languages detected by GitHub:** CSS · JavaScript · HTML
 
-[View code ↗](https://github.com/Juani-Alvares/proyect-Dashboard) · [Live demo ↗](https://juani-alvares.github.io/proyect-Dashboard/)
+[View code ↗](https://github.com/Juani-Alvares/Proyect-Calculator)
 
-### 02 / Scientific Calculator
+### 02 / proyect\-Dashboard
 
-A browser-based scientific calculator with **trigonometry, logarithms, powers, and factorials**. Includes degree/radian modes, memory controls, keyboard shortcuts, and a dark theme.
+Web\-Dasboard Crypto
 
-**Built with:** HTML · CSS · JavaScript
+**Languages detected by GitHub:** HTML · CSS · JavaScript
 
-[View code ↗](https://github.com/Juani-Alvares/Proyect-Calculator) · [Live demo ↗](https://juani-alvares.github.io/Proyect-Calculator/)
+[View code ↗](https://github.com/Juani-Alvares/proyect-Dashboard)
 
 <!-- FEATURED-PROJECTS:END -->
 
