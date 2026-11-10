@@ -63,7 +63,7 @@ A browser-based scientific calculator with **trigonometry, logarithms, powers, a
 <details>
 <summary>Contribution playground — animated Snake</summary>
 
-<img src="assets/snake.svg" width="100%" alt="Snake animation across my GitHub contribution calendar" />
+<img src="assets/contributions.svg" width="100%" alt="Snake animation across my GitHub contribution calendar" />
 
 </details>
 
